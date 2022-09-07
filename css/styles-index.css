@@ -1,0 +1,201 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #212121;
+}
+
+/* ------------------HEADER---------------- */
+
+.link-logo {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    color: #2196F3;
+}
+
+.header-link-studio,
+.header-link-portfolio,
+.header-link-contacts {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+    color: #212121;
+}
+
+.link-mail,
+.link-tel {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1,14px;
+    letter-spacing: 0.02em;
+    color: #757575;
+}
+
+/* --------------------HERO-------------------- */
+.hero {
+    background: #2F303A;}
+
+.hero-text {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;}
+
+/* .hero-bt {
+    width: 216px;
+    height: 50px;
+    background: #2196F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+    border-radius: 4px;
+}    */
+
+.hero-butt {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.88;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;}
+
+/* -------------FEATURES OF THE COMPANY------------- */
+
+.features-title {
+    color: white;
+}
+
+.features-title-detail,
+.features-title-punctuality,
+.features-title-planning,
+.features-title-technologies {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #212121;}
+
+
+.features-text-detail,
+.features-text-punctuality,
+.features-text-planning,
+.features-text-technologies {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #757575;}
+
+/* -------------OUR ACTIVITY------------- */
+
+.activity {}
+
+.activity-title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;}
+
+
+/* -------------OUR TEAM------------- */
+
+/* .team {
+    position: absolute;
+    width: 1600px;
+    height: 648px;
+    left: 0px;
+    top: 1446px;
+    background: #F5F4FA;} */
+    
+.team-title {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.17;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;}
+    
+/* .team-first {}
+.team-second {}
+.team-third {}
+.team-fourth {} */
+
+    
+.team-first-name,
+.team-second-name,
+.team-third-name,
+.team-fourth-name {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.19;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;}
+
+
+.team-first-proff,    
+.team-second-proff,
+.team-third-proff,
+.team-fourth-proff {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.19;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #757575;}
+
+
+
+/* -------------CONTACTS------------- */
+
+.footer {
+    background-color: #2F303A;
+    ;
+}
+
+.footer-link-address {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+}
+
+.footer-link-mail,
+.footer-link-tel {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em;
+    color: rgba(255, 255, 255, 0.6);
+}
